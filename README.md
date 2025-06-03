@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC-333333?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenID-FF6B00?style=for-the-badge&logo=openid&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Keycloak-0072C6?style=for-the-badge&logo=keycloak&logoColor=white" />
